@@ -9,13 +9,6 @@ There are two main improvements that could possibly be made to this program in t
 2. Other Languages - Although currently my program only supports Spanish orals, I could make an option to select other languages as well. 
 
 
-
-
-Here are examples of what it looks like:
-
-
-
-
 Question Inputting:
 
 ![image](https://github.com/GithubArnavSharma/SpanishOral/assets/77365987/c1b08eb4-54ee-4f73-b6d8-c403bf0d4bf8)
