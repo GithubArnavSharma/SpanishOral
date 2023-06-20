@@ -8,11 +8,15 @@ There are two main improvements that could possibly be made to this program in t
 1. Graphics - Currently, the graphics of this program don't look very aesthetically pleasing. This is because I mainly focused on the functionality of the program rather than how good it looked. 
 2. Other Languages - Although currently my program only supports Spanish orals, I could make an option to select other languages as well. 
 
+
 Question Inputting:
+
 ![image](https://github.com/GithubArnavSharma/SpanishOral/assets/77365987/c1b08eb4-54ee-4f73-b6d8-c403bf0d4bf8)
 
 Question Recording:
+
 ![image](https://github.com/GithubArnavSharma/SpanishOral/assets/77365987/2c3ab323-f2cc-4955-8e4c-8020452dada7)
 
 Question Results:
+
 ![image](https://github.com/GithubArnavSharma/SpanishOral/assets/77365987/2cf58205-4d17-40e5-ba83-dbcf6472572a)
