@@ -8,7 +8,12 @@ There are two main improvements that could possibly be made to this program in t
 1. Graphics - Currently, the graphics of this program don't look very aesthetically pleasing. This is because I mainly focused on the functionality of the program rather than how good it looked. 
 2. Other Languages - Although currently my program only supports Spanish orals, I could make an option to select other languages as well. 
 
+
+
+
 Here are examples of what it looks like:
+
+
 
 
 Question Inputting:
