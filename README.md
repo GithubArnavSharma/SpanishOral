@@ -1,4 +1,4 @@
-# SpanishOral
+![record](https://github.com/GithubArnavSharma/SpanishOral/assets/77365987/57021b13-1af2-4878-b577-2ea6ca8de1e3)# SpanishOral
 
 As a student in Spanish 1 and Spanish 2, we were occassionally given oral exams - we would be given a sheet of potential questions a few days prior, and then we would be asked several of those questions. Studying orals by yourself was often challenging, as asking the questions to yourself doesn't really prepare you enough, which is why I have created this application.
 
@@ -6,15 +6,15 @@ Spanish Oral starts off by allowing you to enter several Spanish Questions, in t
 
 Question Inputting:
 
-![image](https://github.com/GithubArnavSharma/SpanishOral/assets/77365987/c1b08eb4-54ee-4f73-b6d8-c403bf0d4bf8)
+![enterin](https://github.com/GithubArnavSharma/SpanishOral/assets/77365987/9514c991-a750-444f-8743-aba7c6004cdb)
 
 Question Recording:
 
-![image](https://github.com/GithubArnavSharma/SpanishOral/assets/77365987/2c3ab323-f2cc-4955-8e4c-8020452dada7)
+![record](https://github.com/GithubArnavSharma/SpanishOral/assets/77365987/84325ea6-fbca-425d-9096-184d954e4e32)
 
 Question Results:
 
-![image](https://github.com/GithubArnavSharma/SpanishOral/assets/77365987/2cf58205-4d17-40e5-ba83-dbcf6472572a)
+![results](https://github.com/GithubArnavSharma/SpanishOral/assets/77365987/cec92cd2-d8f9-4ee6-9b5c-d8b637bd39e8)
 
 There are two main improvements that could possibly be made to this program in the future:
 1. Graphics - Currently, the graphics of this program don't look very aesthetically pleasing. This is because I mainly focused on the functionality of the program rather than how good it looked. 
