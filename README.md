@@ -20,10 +20,16 @@ Question Results:
 
 ## Try it Yourself:
 
-1. Install everything from requirements.txt using this command:
+1. Download the repository
 
+2. Navigate to the repository and enter this command to download the requirements:
+   
 pip install -r requirements.txt
 
-2. Navigate to the repository on your command prompt and type:
+3. On command prompt, run spanish_oral.py. If you are using Python 3.8, this command may look like:
 
-py -3.6 spanish_
+py -3.8 spanish_oral.py 
+
+Note: You will need to download the Spanish voice package for Windows. Instructions are here: https://support.microsoft.com/en-us/windows/download-language-pack-for-speech-24d06ef3-ca09-ddcc-70a0-63606fd16394
+
+You will also need to update the line "engine.setProperty('voice', voices[2].id)" depending on which index of the "voices" list holds the Spanish voice.
